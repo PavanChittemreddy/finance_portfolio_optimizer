@@ -4,7 +4,7 @@ A comprehensive case study demonstrating volatility analysis, covariance explora
 
 🚀 Live Demo
 
-View the Streamlit App
+[View the Streamlit App](https://financeportfoliooptimizer-but3xfztguhfwfd8yn6ltb.streamlit.app/)
 
 🔧 Installation & Local Run
 
