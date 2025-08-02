@@ -1,4 +1,4 @@
-# finance_portfolio_optimizerStock Volatility & Portfolio Optimizer
+# Stock Volatility & Portfolio Optimizer
 
 A comprehensive case study demonstrating volatility analysis, covariance exploration, and efficient-frontier simulation using Python, Plotly, and Streamlit.
 
