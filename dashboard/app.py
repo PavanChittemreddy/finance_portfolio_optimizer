@@ -7,7 +7,7 @@ import plotly.express as px
 # ── 1. Load & clean data ──
 @st.cache_data
 def load_data():
-    df = pd.read_csv("../data/close_prices.csv", index_col="Date", parse_dates=True)
+    df = pd.read_csv("data/close_prices.csv", index_col="Date", parse_dates=True)
     df = df.bfill().ffill().dropna()
     returns = df.pct_change().dropna()
     return df, returns
