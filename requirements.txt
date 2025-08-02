@@ -1,9 +1,5 @@
 pandas
 numpy
-scipy
-scikit-learn
-matplotlib
 plotly
 yfinance
-jupyterlab
 streamlit
